@@ -11,3 +11,7 @@ favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - siteurl: https://www.clearcontent.online/
+    name: "Clear Content Blog "
+    tab: true
