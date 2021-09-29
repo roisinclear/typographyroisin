@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typography - why typefaces are more important than they may seem "
+title: "Typography - Why Typefaces are More Important Than They May Seem "
 date: 2021-09-29T11:38:34.352Z
 image: ../uploads/laura-chouette-koldzacng6c-unsplash.jpg
 title_color: "#ffffff"
