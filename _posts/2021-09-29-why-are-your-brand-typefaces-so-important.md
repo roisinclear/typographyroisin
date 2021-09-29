@@ -12,8 +12,6 @@ tags:
   - Magazines
   - Signage
 ---
-<!--StartFragment-->
-
 Starting a brand? You want to choose a type of typography that would suit it? It can be difficult to know what to go for. Here are some of the basics. First you will need to decide what you desired demographic is. For example, let’s say you are starting a jewellery business. Is it high-end? Or more accessible to all - maybe it’s for the younger generation? Maybe it has a more bohemian aesthetic. Once you’ve decided who you are marketing to, its time to work on branding. 
 
 Branding is paramount for a business to do well in my eyes, a company can provide the best product or service, but if the branding is not up to par, people will be less likely to look at/use your brand. Kristopher Jones, Forbes Council Member agrees by writing ‘There’s a huge amount of competition today, so businesses need to go the extra mile of ensuring they stand out in a crowd. To do this, you should invest in creating a strong brand that will get and keep people’s attention. With the right branding, you have the chance to get some control over how people perceive your business, so you don’t want to overlook this’. (This quote was written on the 24th of March, 2021). 
