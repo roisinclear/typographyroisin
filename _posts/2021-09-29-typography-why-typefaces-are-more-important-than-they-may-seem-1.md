@@ -11,8 +11,6 @@ tags:
   - Media
   - Graphics
 ---
-<!--StartFragment-->
-
 The style of everything is very important to us. How things work visually can make us like, dislike, purchase, watch, read or not read things. What we choose to interact with is also a signifier to others that we identify with it. This is the same for magazines. We often choose a magazine to read based on how it looks to us, and subconsciously or consciously - how it looks to others. This is alongside the characteristics that the magazine has that we as the audience feel that we relate to. The magazine’s typography acts as a subtle means of communication. (According to [](https://www.engadget.com/about/editors/nabin-paudyal)N. Paudyal on Engadget.com) 
 
 Typography has a big impact, bigger than we may initially think. The way fonts work to stay in line with the branding of said magazine/brand is highly important. If the typography and brand seemed to be misaligned, it would throw the design of the magazine off, be less aesthetically pleasing and thus, a consequential effect could affect the sales, which would gradually affect the brand in the long term. The typeface a brand uses conveys to the reader what kind of brand they are.
