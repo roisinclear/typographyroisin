@@ -7,7 +7,7 @@ header_text_color: "#ffffff"
 bannerheight: 40vmax
 navbarheight: 35px
 logo: ../uploads/logo.jpg
-favicon: ../uploads/logo.jpg
+favicon: ../uploads/favicon.ico
 gridlayout: true
 fixednavbar: false
 upzoom: true
