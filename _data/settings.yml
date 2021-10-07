@@ -6,7 +6,7 @@ header_text: Clear Typography
 header_text_color: "#ffffff"
 bannerheight: 40vmax
 navbarheight: 35px
-logo: /uploads/logo.jpg
+logo: ../uploads/ct-logo.png
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: false
