@@ -1,20 +1,17 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+subtitle: All about me and my life
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
 show: false
 ---
+Hello! This is Roisin Clear here, the creator of Clear Typography. I hope you are well. I created this space in order to be able to look at the importance and intricicies of typography in the media. I am going to look at why it's so influential for an impression one would like to create. 
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+I would like to talk about magazines and brands, but not only these. I am giving myself the scope to explore different genres and themes, where I see fit. There is so much to talk about with the typography and designs of things, that I feel I do not want to box myself in. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+A little background on me - am an aspiring journalist/presenter and I love to write. Which is why I like blogs. I also, separately have my own blog called Clear Content. I like to use 'clear' in my names because it also works as a pun on my name, while also making sense due to the content I produce - if you hadn't noticed hehe. Anyway, take a look at my other page as well if you want to/have time/can be bothered haha. Anyhow, enough about me, let's get writing and I hope you enjoy!
