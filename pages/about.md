@@ -8,7 +8,7 @@ layout: page
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Hello! This is Roisin Clear here, the creator of Clear Typography. I hope you are well. I created this space in order to be able to look at the importance and intricicies of typography in the media. I am going to look at why it's so influential for an impression one would like to create. 
 
