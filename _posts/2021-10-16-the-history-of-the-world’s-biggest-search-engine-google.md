@@ -1,7 +1,8 @@
 ---
 layout: post
-title: " The History of the World’s Biggest Search Engine - Google"
+title: " The History of the World’s Biggest Search Engine "
 date: 2021-10-16T15:57:05.334Z
+image: ../uploads/google-new-logo-2015-640x344.png
 title_color: "#ffffff"
 comments: false
 ---
