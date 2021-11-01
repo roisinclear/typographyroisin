@@ -12,6 +12,6 @@ gridlayout: true
 fixednavbar: false
 upzoom: true
 items:
-  - siteurl: https://www.clearcontent.online/
-    name: "Clear Content Blog "
+  - siteurl: /aboutme/
+    name: "About me "
     tab: true
