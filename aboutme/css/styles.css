@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&display=swap');
+body {
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    text-align: center;
+    margin: auto;
+max-width: 900px;
+}
+
+.mads{order: 6px solid rgb(255, 255, 255);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;}
+
+{border: 6px solid white }
+
+img{ 
+border: 6px solid rgb(255, 255, 255);
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 25%;}
+
+.zbd{order: 6px solid rgb(255, 255, 255);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 30px;}
+body {
+    background-image: url("https://i.imgur.com/YFDs4Of.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+
+h1 {color: pink;
+text-align: center;}
+  
+
+.btn {
+  background-color: rgba(255, 180, 245, 0); 
+  border: 4px solid rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+
+}
+
+  
+
+  
