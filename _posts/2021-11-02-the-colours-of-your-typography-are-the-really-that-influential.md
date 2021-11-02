@@ -2,7 +2,7 @@
 layout: post
 title: The Colours of Your Typography - Are The Really That Influential?
 date: 2021-11-02T18:13:09.270Z
-image: ../uploads/1603967800-color-meanings-infographic.jpeg
+image: ../uploads/9098c767be198aa38d0ed14f301e92a4.jpeg
 title_color: "#ffffff"
 comments: false
 tags:
