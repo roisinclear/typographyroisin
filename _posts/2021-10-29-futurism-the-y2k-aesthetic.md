@@ -5,6 +5,11 @@ date: 2021-10-29T16:56:22.971Z
 image: ../uploads/screenshot-2021-10-30-at-16.11.15.png
 title_color: "#ffffff"
 comments: false
+tags:
+  - Culture
+  - Fashion
+  - Design
+  - Fonts
 ---
 The Y2K (Year 2000) aesthetic is very popular at the moment, both in fashion and design. For many (including myself) it's like a recall to their childhood, and a way to be playful and nostalgic while keeping in style. This is also the same for when it comes to typography. 
 
