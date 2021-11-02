@@ -2,13 +2,14 @@
 layout: post
 title: The Colours of Your Typography - Are The Really That Influential?
 date: 2021-11-02T18:13:09.270Z
-image: ../uploads/9098c767be198aa38d0ed14f301e92a4.jpeg
+image: ../uploads/psychology-of-colors-in-marketing-feature-image.jpeg
 title_color: "#ffffff"
 comments: false
 tags:
   - Graphics
   - Design
   - Media
+  - Fonts
 ---
 Now, we've spoken a lot about the importance of choosing you typography to convey a specific message, but what about the colour? You're probably thinking that must be important to right? You would be correct. Colours help convey meaning and emotion so if your typography doesn't match up to the aesthetic and feeling you/your company is trying to achieve, it will give the wrong message. 'Most of that judgment is [](https://neilpatel.com/blog/how-colors-affect-conversions/?wide=1)based on colour alone'. - Ritusharma on 13th September 2021, for Inkbot Design.
 
