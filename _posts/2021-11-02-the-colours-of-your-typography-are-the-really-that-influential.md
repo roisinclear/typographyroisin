@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Colours of Your Typography - Are The Really That Influential?
+title: The Colours of Your Typography - Are They Really That Influential?
 date: 2021-11-02T18:13:09.270Z
 image: ../uploads/psychology-of-colors-in-marketing-feature-image.jpeg
 title_color: "#ffffff"
