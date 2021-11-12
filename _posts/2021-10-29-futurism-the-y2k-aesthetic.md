@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Y2K Aesthetic and It's Use With Popular Brands
+title: The Y2K Aesthetic and Its Use With Popular Clothing Brands
 date: 2021-10-29T16:56:22.971Z
 image: ../uploads/screenshot-2021-10-30-at-16.11.15.png
 title_color: "#ffffff"
