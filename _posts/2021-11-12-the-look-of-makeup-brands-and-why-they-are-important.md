@@ -5,6 +5,11 @@ date: 2021-11-12T13:38:08.317Z
 image: ../uploads/makeup1-superjumbo.jpeg
 title_color: "#ffffff"
 comments: false
+tags:
+  - Design
+  - Graphics
+  - Culture
+  - Fonts
 ---
 By now, we have discussed why typography is important for all brands in general, now since I am interested in makeup I thought we could take a deeper look into makeup typography for branding.
 
